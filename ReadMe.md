@@ -1,1 +1,1 @@
-this is my first project on python
+This is a python project from ALX school.
